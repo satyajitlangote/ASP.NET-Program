@@ -1,0 +1,5 @@
+D:\C#\TenNumEvenOdd\TenNumEvenOdd\bin\Debug\TenNumEvenOdd.exe.config
+D:\C#\TenNumEvenOdd\TenNumEvenOdd\bin\Debug\TenNumEvenOdd.exe
+D:\C#\TenNumEvenOdd\TenNumEvenOdd\bin\Debug\TenNumEvenOdd.pdb
+D:\C#\TenNumEvenOdd\TenNumEvenOdd\obj\Debug\TenNumEvenOdd.exe
+D:\C#\TenNumEvenOdd\TenNumEvenOdd\obj\Debug\TenNumEvenOdd.pdb
