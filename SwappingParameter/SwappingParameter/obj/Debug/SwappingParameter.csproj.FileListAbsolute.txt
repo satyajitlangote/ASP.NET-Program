@@ -1,0 +1,5 @@
+D:\C#\SwappingParameter\SwappingParameter\bin\Debug\SwappingParameter.exe.config
+D:\C#\SwappingParameter\SwappingParameter\bin\Debug\SwappingParameter.exe
+D:\C#\SwappingParameter\SwappingParameter\bin\Debug\SwappingParameter.pdb
+D:\C#\SwappingParameter\SwappingParameter\obj\Debug\SwappingParameter.exe
+D:\C#\SwappingParameter\SwappingParameter\obj\Debug\SwappingParameter.pdb
