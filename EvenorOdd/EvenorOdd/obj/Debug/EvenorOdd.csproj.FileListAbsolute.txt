@@ -1,0 +1,5 @@
+D:\C#\EvenorOdd\EvenorOdd\bin\Debug\EvenorOdd.exe.config
+D:\C#\EvenorOdd\EvenorOdd\bin\Debug\EvenorOdd.exe
+D:\C#\EvenorOdd\EvenorOdd\bin\Debug\EvenorOdd.pdb
+D:\C#\EvenorOdd\EvenorOdd\obj\Debug\EvenorOdd.exe
+D:\C#\EvenorOdd\EvenorOdd\obj\Debug\EvenorOdd.pdb
