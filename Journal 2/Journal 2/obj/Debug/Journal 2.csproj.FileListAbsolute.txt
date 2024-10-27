@@ -1,0 +1,24 @@
+D:\ASp.net\Journal 2\Journal 2\bin\Debug\Journal 2.exe.config
+D:\ASp.net\Journal 2\Journal 2\bin\Debug\Journal 2.exe
+D:\ASp.net\Journal 2\Journal 2\bin\Debug\Journal 2.pdb
+D:\ASp.net\Journal 2\Journal 2\obj\Debug\Journal 2.csprojResolveAssemblyReference.cache
+D:\ASp.net\Journal 2\Journal 2\obj\Debug\Journal 2.exe
+D:\ASp.net\Journal 2\Journal 2\obj\Debug\Journal 2.pdb
+D:\Sanveda Dot Net Pratical\Journal 2\Journal 2\bin\Debug\Journal 2.exe.config
+D:\Sanveda Dot Net Pratical\Journal 2\Journal 2\obj\Debug\Journal 2.exe
+D:\Sanveda Dot Net Pratical\Journal 2\Journal 2\obj\Debug\Journal 2.pdb
+D:\Sanveda Dot Net Pratical\Journal 2\Journal 2\bin\Debug\Journal 2.exe
+D:\Sanveda Dot Net Pratical\Journal 2\Journal 2\bin\Debug\Journal 2.pdb
+D:\Sanveda Dot Net Pratical\Journal 2\Journal 2\obj\Debug\Journal 2.csprojResolveAssemblyReference.cache
+D:\DOT NET\Journal 2\Journal 2\bin\Debug\Journal 2.exe.config
+D:\DOT NET\Journal 2\Journal 2\obj\Debug\Journal 2.exe
+D:\DOT NET\Journal 2\Journal 2\obj\Debug\Journal 2.pdb
+D:\abhigote.net\Journal 2\Journal 2\bin\Debug\Journal 2.exe.config
+D:\abhigote.net\Journal 2\Journal 2\obj\Debug\Journal 2.exe
+D:\abhigote.net\Journal 2\Journal 2\obj\Debug\Journal 2.pdb
+C:\Rahul\Journal 2\Journal 2\bin\Debug\Journal 2.exe.config
+C:\Rahul\Journal 2\Journal 2\obj\Debug\Journal 2.exe
+C:\Rahul\Journal 2\Journal 2\obj\Debug\Journal 2.pdb
+C:\Rahul\Journal 2\Journal 2\bin\Debug\Journal 2.exe
+C:\Rahul\Journal 2\Journal 2\bin\Debug\Journal 2.pdb
+C:\Rahul\Journal 2\Journal 2\obj\Debug\Journal 2.csprojResolveAssemblyReference.cache
